@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Designing, Hosting, React**
+- 💬 Ask me about **Web Designing, Hosting, React, Hosting**
 
 - 😄 Pronouns: He/Him
 
