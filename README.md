@@ -53,6 +53,8 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahirm86)](https://github.com/zahirm86/github-readme-stats)
-
+<!--
+[![Zahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahirm86&show_icons=true)](https://github.com/zahirm86/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahirm86)](https://github.com/zahirm86/github-readme-stats)
+-->
