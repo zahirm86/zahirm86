@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/zahir-mulla-99688b258" target="_blank"> Zahir Mulla </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Development+FrontEnd+React+%3A)" /> </h3>
 
--  👨‍💻 Website **<a href="https://zahirmulla.netlify.app"> Portfolio</a>**
+-  👨‍💻 **<a href="https://zahirmulla.netlify.app"> Portfolio</a>**
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Ask me about **Web Designing, React, Hosting**
